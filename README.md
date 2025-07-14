@@ -91,7 +91,7 @@ FormCraft/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/niyatimadaan/formcraft.git
    cd FormCraft
    ```
 
@@ -237,5 +237,5 @@ The frontend is configured to proxy API requests to `http://localhost:5000` duri
 <div align="center">
 Made with ❤️ using React, Node.js, and MongoDB
 
-**[⭐ Star this repo](https://github.com/yourusername/formcraft)** if you found it helpful!
+**[⭐ Star this repo](https://github.com/niyatimadaan/formcraft)** if you found it helpful!
 </div>
